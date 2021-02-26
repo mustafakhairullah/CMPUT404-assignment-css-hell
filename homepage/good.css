@@ -1,0 +1,83 @@
+#name {
+    margin-top: 100px;
+    margin: 0.5em 0.5em;
+}
+
+#banner {
+    display: flex;
+    background-image: linear-gradient(rgb(136, 148, 172), #3B3C41);
+    height: 3em;
+    width: 100%;
+    color: white;
+    font-size: 5em;
+    align-content: center;
+    justify-content: left;
+}
+
+#profile_pic {
+    margin: 0.5em 0.5em;
+    border-radius: 160px;
+}
+
+#description {
+    display: flex;
+}
+
+.flex-box {
+    display: flex;
+}
+
+.info-picture {
+    width: 5vw;
+    height: 5vw;
+}
+
+.info-text {
+    margin: 0px 2em;
+    font: 15px Arial, sans-serif;
+    font-size: 1em;
+}
+
+.info-header {
+    margin: 15px 1em;
+    font: 40px Arial, sans-serif;
+}
+
+#content {
+    display: flex;
+    height: 100px;
+}
+
+#description {
+    width: 65%;
+}
+
+#skills {
+    width: 35%;
+    margin: 1em 1em;
+}
+
+.skills_table {
+    background-image: linear-gradient( rgb(75, 84, 102), rgba(255, 255, 255, 0));
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 6em;
+}
+
+.row {
+    display: flex;
+    font: 20px Arial, sans-serif;
+}
+
+.row p {
+    width: 7em;
+    margin: 0.5em 1em;
+    font: 15px Arial, sans-serif;
+}
+
+.skills_title {
+    font: 20px Arial, sans-serif;
+}
