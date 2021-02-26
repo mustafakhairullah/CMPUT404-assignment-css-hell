@@ -1,0 +1,45 @@
+body {
+    background-color: #e9d9bc;
+}
+
+pre {
+    text-align: center;
+}
+
+p {
+    margin: 2em 20%;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 3em;
+    line-height: 1.2em;
+    font-size: 21;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 200%;
+    text-align: center;
+}
+
+.toc {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+.fig {
+    width: 50%;
+    display: block;
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+#translation {
+    text-align: center
+}
